@@ -12,6 +12,6 @@
 
 ### Screenshort
 
-![DDT & TTD with junit](https://github.com/my-toys/math-util/blob/main/images/test-case-with-maven.png)
+![DDT & TTD with junit](https://github.com/my-toys/mathunit-junit5/blob/main/images/test-case-with-maven.png
 
 #### © 2023 my-toys
