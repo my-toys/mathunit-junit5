@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by my-toys](https://github.com/my-toys/math-util/actions/workflows/ci-unit.yml.yml/badge.svg)](https://github.com/my-toys/math-util/actions/workflows/ci-unit.yml.yml)
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by my-toys](https://github.com/my-toys/mathunit-junit5/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/my-toys/mathunit-junit5/actions/workflows/ci-with-maven.yml)
 
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
@@ -12,6 +12,6 @@
 
 ### Screenshort
 
-![DDT & TTD with junit](https://github.com/my-toys/math-util/blob/main/images/ddt_with_Unit.png)
+![DDT & TTD with junit](https://github.com/my-toys/math-util/blob/main/images/test-case-with-maven.png)
 
 #### © 2023 my-toys
